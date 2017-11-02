@@ -5,6 +5,6 @@ class Vehicle
   end
 
   def wheel_size
-    
+    @wheel_size
   end
 end
